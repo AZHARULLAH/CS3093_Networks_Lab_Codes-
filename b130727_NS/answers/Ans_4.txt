@@ -1,0 +1,3 @@
+Dropped packet count is 18
+Total packet count is 604
+Percentage of packets dropped is 2.980132 percent

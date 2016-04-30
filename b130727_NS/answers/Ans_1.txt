@@ -1,0 +1,3 @@
+The maximum RTT value for the packets generated from node "S" is 0.175200 sec.
+The minimum RTT value for the packets generated from node "S" is 0.100640 sec.
+Variation in RTT is 0.074560 sec.

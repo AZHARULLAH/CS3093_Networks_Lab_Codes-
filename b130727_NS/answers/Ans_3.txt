@@ -1,0 +1,3 @@
+Max RTT = 50.572480 s
+Min RTT = 0.005280 s
+Variation in RTT is 50.567200 s

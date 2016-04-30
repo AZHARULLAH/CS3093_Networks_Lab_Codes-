@@ -1,0 +1,2 @@
+The maximum TCP segment size sent through the link between S and D is 1040 Kb
+The minimum TCP segment size sent through the link between S and D is 40 Kb

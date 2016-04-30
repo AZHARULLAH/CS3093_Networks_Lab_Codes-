@@ -1,0 +1,8 @@
+1) gcc 3_B130727SMTP.c -o server
+	./server 3 3901
+	
+2) gcc 3_B130727Client1.c -o client1
+	./client1
+	
+3) gcc 3_B130727Client2.c -o client2
+	./client2

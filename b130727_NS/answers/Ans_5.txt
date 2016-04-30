@@ -1,0 +1,5 @@
+Dropped packet count is 0
+Total packet count is 39543
+Percentage of packets dropped is 0.000000 percent
+
+This is because the queue limit is increased enough to accommodate all the packets and hence no packet is being dropped at any point.
